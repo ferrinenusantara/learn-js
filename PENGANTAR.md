@@ -3,15 +3,7 @@
 kalian mungkin ingin segera mulai coding (atau mungkin tidak, karena berfikir buat apa, karena sudah ada AI). Itu bagus! Tapi **luangkan lima menit saja** untuk membaca beberapa poin pengantar berikut. Saya ingin memberikan sedikit gambaran agar kalian lebih memahami tujuan penulisan buku ini, bagaimana cara terbaik menggunakannya, dan mengapa buku ini dirancang khusus untuk membantu pemula untuk memasuki ekosistem JavaScript.
 
 
----
 
-### Apakah masih perlu belajar coding javascript, sedangkan sudah ada AI
-
-Ini adalah pertanyaan mendasar calon enginer sotware di masa perkembangan AI yang sangat pesat saat ini.
-
-Jujur saja, dengan AI saat ini, tanpa mengetahui coding-pun, kalian sudah bisa ~~membuat~~ menghasilkan berbagai program.
-
-Namun jika kalian mengetahui secara persis bagaimana program tersebut berjalan, bagaimana algoritma-algoritma yang digunakan, bagaimana flow dan proses yang akan berjalan, hal ini tentunya akan membuat kalian bisa membuat prompting yang lebih bagus dan efisien, sehingga program yang dibuat menjadi lebih berkualitas. Dan perlu kalian ketahui, prompting yang efisien berarti kalian akan lebih menghemat token (biaya). **Perlu diingat dan diwaspadai**, setelah orang terbiasa dan menjadi ketergantungan, tentunya **kedepan AI akan menjadi layanan yang tidak murah**.
 
 
 ---
@@ -22,6 +14,16 @@ JavaScript bukan sekadar bahasa pemrograman, ia adalah "nyawa" yang menghidupkan
 
 Jika kalian ingin masuk ke dunia pemrograman, menguasai JavaScript adalah langkah awal terbaik untuk membuka pintu peluang tanpa batas.
 
+
+---
+
+### Apakah masih perlu belajar coding javascript, sedangkan sudah ada AI
+
+Ini adalah pertanyaan mendasar calon enginer sotware di masa perkembangan AI yang sangat pesat saat ini.
+
+Jujur saja, saat ini dengan AI, tanpa mengetahui coding-pun, kalian sudah bisa ~~membuat~~ menghasilkan berbagai program.
+
+Namun jika kalian mengetahui secara persis bagaimana program tersebut berjalan, bagaimana algoritma-algoritma yang digunakan, bagaimana flow dan proses yang akan berjalan, hal ini tentunya akan membuat kalian bisa membuat prompting yang lebih bagus dan efisien, sehingga program yang dibuat menjadi lebih berkualitas. Dan perlu kalian ketahui, prompting yang efisien berarti kalian akan lebih menghemat token (biaya). **Perlu diingat dan diwaspadai**, setelah orang terbiasa dan menjadi ketergantungan, **kedepan AI akan menjadi layanan yang tidak murah**.
 
 ---
 
